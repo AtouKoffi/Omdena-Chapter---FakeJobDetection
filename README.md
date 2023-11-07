@@ -1,2 +1,2 @@
 # Omdena-Chapter---FakeJobDetection
-Create ML model de detect Fake Job posting
+Create ML model to detect Fake Job posting
